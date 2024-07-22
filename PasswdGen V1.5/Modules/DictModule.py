@@ -1,0 +1,13 @@
+class Dictionary:
+    letters_full = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ01234567890123456789!#@$%&()*+-{}|~[]^_?!#@$%&()*+-{}|~[]^_?"
+    upcase_full = "ABCDEFGHIJKLMNOPQRSTUVWXYZ01234567890123456789!#@$%&()*+-{}|~[]^_?!#@$%&()*+-{}|~[]^_?"
+    lowcase_full = "abcdefghijklmnopqrstuvwxyz01234567890123456789!#@$%&()*+-{}|~[]^_?!#@$%&()*+-{}|~[]^_?"
+    letters_with_symbol = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#@$%&()*+-{}|~[]^_?!#@$%&()*+-{}|~[]^_?"
+    upcase_with_symbol = "ABCDEFGHIJKLMNOPQRSTUVWXYZ!#@$%&()*+-{}|~[]^_?!#@$%&()*+-{}|~[]^_?"
+    lowcase_with_symbol = "abcdefghijklmnopqrstuvwxyz!#@$%&()*+-{}|~[]^_?!#@$%&()*+-{}|~[]^_?"
+    letters_with_digits = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ01234567890123456789"
+    upcase_with_digits = "ABCDEFGHIJKLMNOPQRSTUVWXYZ01234567890123456789"
+    lowcase_with_digis = "abcdefghijklmnopqrstuvwxyz01234567890123456789"
+    letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    lowcase = "abcdefghijklmnopqrstuvwxyz"
+    upcase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
