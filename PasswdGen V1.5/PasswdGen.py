@@ -1,6 +1,8 @@
 
 from Modules.DictModule import Dictionary
 import random
+__author__="Vahab Programmer https://Github.com/Vahab-Programmer"
+__version__="0.1.5"
 def PasswdGen(Method,Length):
         if not Length < 8:
             PassResult = "".join(random.choices(Method,k=Length))
